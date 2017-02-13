@@ -1,9 +1,11 @@
 # CandleMap
 
-api 명세서
-게시판
+Playstore: [모바일 촛불집회] https://play.google.com/store/apps/details?id=candlemap.bora.com.candlemap
 
-http://ip:5000/api/v1/candle_board/
+CandleMap rest-api 명세서
+
+
+주소 : http://ip:5000/api/v1/candle_board/
 
 통신 방법 ['GET', 'POST', 'DELETE']
 
