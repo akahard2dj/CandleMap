@@ -1,4 +1,12 @@
 #모바일 촛불집회 Back-end
+Python 3.5.0
+
+Requirements
+- flask : web framework
+- SQLite3 : DB Engine
+ 
+
+#
 
 1. Application
 
